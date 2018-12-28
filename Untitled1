@@ -1,8 +1,0 @@
-#include <iostream>
-using namespace std;
-int main (void){
-
-char ma[50]="mayra es la monda lironda";
-cout << ma << endl;
-return 0;}
-
